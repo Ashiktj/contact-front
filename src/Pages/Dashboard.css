@@ -1,0 +1,39 @@
+#body{
+    background-color: rgba(135, 149, 158, 0.384);
+    margin: 0px;
+}
+
+#heading{
+    color: '#05396B';
+    text-decoration: underline;
+}
+
+#card{
+    padding: 20px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    margin: 50px;
+}
+#img{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+.button{
+    margin: 10px;
+    border: solid 2px  black ;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#cardtitle{
+
+}
+#add{
+    margin-left: 90%;
+}
